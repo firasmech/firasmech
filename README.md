@@ -34,18 +34,6 @@ I'm a **Software Engineer** specializing in **Backend Development** with a stron
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📈 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ## 🌱 Current Focus
 - Enhancing expertise in distributed systems design
